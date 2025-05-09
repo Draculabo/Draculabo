@@ -2,15 +2,7 @@
 
 > I'm passionate about building scalable applications with modern technologies, specializing in React, Node.js, and smart contract development.
 
-#### 💻 Building innovative solutions with clean code 💕
-
----
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?hide=stars&username=Draculabo&count_private=true&show_icons=true&&bg_color=30,40941c,cb1597&title_color=fff&text_color=fff&icon_color=fc0" alt="GitHub stats" />
-</a>
-
----
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?hide=stars&username=Draculabo&count_private=true&show_icons=true&&bg_color=30,40941c,cb1597&title_color=fff&text_color=fff&icon_color=fc0)](https://github.com/Draculabo)
 
 ## ⚡ Technical Skills
 
