@@ -53,17 +53,21 @@
 ### DevOps & Tools
 
 <p>
+   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-DB652A?style=flat&logo=ubuntu&logoColor=white" />
    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" />
    <img alt="SEO" src="https://img.shields.io/badge/-SEO-black?style=flat&logo=google"/>
+   <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F9A03C?style=flat-square&logo=cloudflare&logoColor=white"/>
+  <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+
 </p>
 
 ### Development Environment
 
 <p>
    <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=Windows" />
+  <img alt="WSL"src="https://img.shields.io/badge/-WSL-87CF3E?style=flat-square&logo=linux&logoColor=white"  />
    <img alt="MacOS" src="https://img.shields.io/badge/-MacOS-333?style=flat&logo=apple&logoColor=white" />
-   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-DB652A?style=flat&logo=ubuntu&logoColor=white" />
    <img alt="NeoVim" src="https://img.shields.io/badge/NeoVim-649047?style=flat&logo=neovim&logoColor=ffffff" />
    <img alt="Cursor" src="https://img.shields.io/badge/Cursor-black?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAABMlBMVEUAAAD////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////29vb////////////+/v7////////s7Oz///////+wsLCtra39/f34+Pjx8fH////q6ur////e3t7m5ubZ2dnPz8/CwsK2tra4uLisrKy0tLTp6eni4uLj4+Pg4ODBwcH///+xsbHJycnW1tb///+urq7k5OT////r6+uxsbHo6Ojp6em0tLTi4uK6urrW1tbb29vAwMDKysq+vr7///+9vb3Kysr19fXZ2dnOzs7FxcWsrKzd3d26urr///+qqqobpr9IAAAAZHRSTlMAOMxjQ04iHUYur6hLPReibRG1vHI6w5vJdnpAlI+ISCaAKjKDNQppflxXjA3XBlP++v7+/ffEuIL9/f39/PLwvKWghf3w6enn4uHf29bS0LeuppKAcl9X/f3u2tDJx66Ykn4wUuqHtgAAA4pJREFUWMOllXl/mjAcxqPhsgKFVa2KN4qCVuu2rrvX3eu1rluP3Tfv/y2MRCEJxHPfvyR88v38ngcJYD4SNMF/YMJKT5LWVgzVfrValqWGNADrYPf6WBAYWpIDVkXu1mr9gJIuS1Irk5HBSgxG7QCkKOl4hIxt6yuE10q9ZhMbajkTjdDIZDope9k2W91yudybKJBAn4zQyWuZZarQvVIAViCDYZIRNEtogAU4gpHLhQakMAZ4BGkygqAI89u0oWEEBqJodh3TDHtM5S1BUa3ZVcge7HYNVgEdMgIOUVfFDr8KU4EBXazIRQo4pEbo4BFEUeVUMey4LsSwQ0DgDNge64FBVOJVNEaeiwwJBQTDaYhG2GNdRGh0FbriBbhYEcvhBsMN4j2KGJtU0Tz6uwYvriKBONreW3X77U9nmUigqqK7f3OV7bc++uNLIqgHBjGXXnr7zfu7vn8gEoFSx4raq+X233vk+/4TjxIIykQx2txbIvxDH/FTpAUCUqiBAm4tCv/AxxyLtMDCBmVSxemi8JhLlRZoFlZMq+i/mhsec6CwAo1ReNm92eEx4yv0ShBBPo8UVA5Y4IUnvMevBBGkUkhh0YrSaSI84bWGXwlagBVsFdXPTHiai8lbyQiwgShUVMXGHglPczY9WmgBJllFEYcf+yzX06OlxQq4OcpHL8LwpMHwaGEFfMXotx/nSSs8WhqsgM2BFaoL7yYEF9FXgi8gCsWDMCk4lqPTTeIJSA4RQp7gmhzRHAFRKC7kCg5MckTPEWgenPLcZxj/IV+J2YL8qGuExAS/htSnTp4hEI0c4QP7CB1Afer4AsUo07CCH8IQkBF4Ags2WZ75FK/bzVLHiUZICvJuuxaDETxDK0Yj7FGPC0btaoKnPuHLZKkPZRQiIaj3KhwowfhpuFj1dBSCEVi5bS7nRPCVWu4rOiPIw+1NPu/IAOyNdko2I4FXyc6CCL7Hb5XIP9GubMziTrj/ceKWYQKCmL3BJxLcid3oNwDDwNjf4hEK3rDLWQEkkKoFDm99zO43enELOoCHtVFMMBUc0mttHcxgCAvpGDuTBqmVTRvMwewVeYKT6HpfBAtobScFL8OrouGAxSg34oKd6UVfBkvhwAIjeJPGZDtgafQ2JdjFP7Y8sBKZzUhwiMKXBmBV1H0swI+wIoE1cIwiEpykNzSwJnItvfOy4A7B+tjnz00wl3/ie80MHH/0OQAAAABJRU5ErkJggg==" />
    <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-black?style=flat&logo=intellij-idea" />
