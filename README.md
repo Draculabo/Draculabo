@@ -2,7 +2,7 @@
 
 > I'm passionate about building scalable applications with modern technologies, specializing in React, Node.js, and smart contract development.
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?hide=stars&username=Draculabo&count_private=true&show_icons=true&&bg_color=30,40941c,cb1597&title_color=fff&text_color=fff&icon_color=fc0)](https://github.com/Draculabo)
+[![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=draculabo&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/Draculabo)
 
 ## ⚡ Technical Skills
 
